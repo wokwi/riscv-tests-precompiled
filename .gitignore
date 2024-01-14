@@ -1,10 +1,5 @@
 *~
-*.riscv
 *.host
-*.o
-*.dump
-*.out
-*.hex
 .*.swp
 *.pyc
 /autom4te.cache
